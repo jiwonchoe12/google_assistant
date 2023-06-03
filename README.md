@@ -31,7 +31,8 @@ KoGPT와 GPTZero 를 활용한 구글 검색 어시스턴트 제작
 3. 14 번째 줄에는 KoGPT 에서 발급받은 키를 입력한다.
 4. Flask Server version 은 api.py 프로그램을 서버에다가 돌린다.(로컬 컴퓨터로 진행 가능)
 5. 구글에서 JavaScript 을 실행시키면 동작한다. JavaScript 을 간편하게 실행시키기 위해 코드를 북마크에다 등록한다.
-5-1. JavaScript 코드를 압축한다. 이 웹사이트를 이용한다(http://javascriptcompressor.com)
-5-2. 압축된 스크립트를 uri 문자로 인코딩 하고 javascript: 문구를 삽입하여 북마클립용 자바스크립트 코드를 만든다. 이 웹사이트를 이용 (https://nuknukhan.tistory.com/54) 5-3. 구글의 북마크 > 북마크 관리자 > 새 북마크 추가로 이동한다
-5-4. 자바스크립트 북마크를 입력한다.
+- JavaScript 코드를 압축한다. 이 웹사이트를 이용한다(http://javascriptcompressor.com)
+- 압축된 스크립트를 uri 문자로 인코딩 하고 javascript: 문구를 삽입하여 북마클립용 자바스크립트 코드를 만든다. 이 웹사이트를 이용 (https://nuknukhan.tistory.com/54)
+- 구글의 북마크 > 북마크 관리자 > 새 북마크 추가로 이동한다
+- 자바스크립트 북마크를 입력한다.
 6. 북마크를 클릭하여 실행한다.
