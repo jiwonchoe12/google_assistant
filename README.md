@@ -20,13 +20,10 @@ KoGPT와 GPTZero 를 활용한 구글 검색 어시스턴트 제작
 - “pip install -r requirements.txt”명령어로 프로그램 작동에 필요한 패키지를 설치한다
 
 #### Local version 
-1.Localversiondirectory내 chrome_open.py 파일의 11과 49번째 줄에는 chromedriver을 설치한 경로를 입력한다.
-
-2.Kakao Developers 에서 애플리케이션 추가하기 버튼을 눌러 Rest API 키를 생성한다. 
-
-3.28 번째 줄에는 KoGPT 에서 발급받은 키를 입력한다.
-
-4.이후 프로그램을 실행한다.
+1. Localversiondirectory내 chrome_open.py 파일의 11과 49번째 줄에는 chromedriver을 설치한 경로를 입력한다.
+2. Kakao Developers 에서 애플리케이션 추가하기 버튼을 눌러 Rest API 키를 생성한다. 
+3. 28 번째 줄에는 KoGPT 에서 발급받은 키를 입력한다.
+4. 이후 프로그램을 실행한다.
 
 #### Flask Sever version
 1. Flask Server version directory 내 api.py 파일의 62 번째 줄에 chrome driver 을 설치한 경로를 입력한다.
